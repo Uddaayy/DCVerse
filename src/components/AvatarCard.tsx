@@ -16,7 +16,6 @@ const AvatarCard: React.FC<AvatarCardProps> = ({ avatar }) => {
       onMouseLeave={() => setIsHovered(false)}
     >
       <div className="relative">
-        {/* Square container using aspect-square */}
         <div className="aspect-square w-full overflow-hidden bg-gray-100 dark:bg-gray-700">
           <img 
             src={avatar.image} 

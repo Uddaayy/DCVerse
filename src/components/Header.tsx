@@ -6,7 +6,6 @@ interface HeaderProps {
 }
 
 const Header: React.FC<HeaderProps> = ({ username }) => {
-  // Get the current time to customize greeting
   const currentHour = new Date().getHours();
   let greeting;
 
