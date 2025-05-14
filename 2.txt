@@ -1,0 +1,5 @@
+The two features i would like to add are:
+1.Avatar customization tools: like allowing the user to edit the features like hair, outfit as we see in snapchat.
+2.Avatar sharing feature: enabling an easy sharing to social media like fb,instagram,snapchat so that user as well as the application can go viral.
+
+One of the challenge i faced in this task is to retrieve the details like image, name, from the dummy.json . It was a bit confusing for me in the beginning but later on i focused on it and completed the task.
