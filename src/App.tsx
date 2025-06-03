@@ -41,11 +41,9 @@ function App() {
 
     fetchAvatars();
   }, []);
-
   const handleCreateAvatar = () => {
     setShowModal(true);
   };
-
   const handleCloseModal = () => {
     setShowModal(false);
   };
