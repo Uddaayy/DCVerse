@@ -32,6 +32,5 @@ Welcome to the AI Avatar Dashboard — a sleek, responsive single-page interface
 
 ```bash
 git clone https://github.com/Uddayy/DCVerse.git
-cd DCVerse
 npm install
 npm run dev
